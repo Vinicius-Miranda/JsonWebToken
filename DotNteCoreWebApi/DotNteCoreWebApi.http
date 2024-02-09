@@ -1,0 +1,6 @@
+@DotNteCoreWebApi_HostAddress = http://localhost:5163
+
+GET {{DotNteCoreWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
